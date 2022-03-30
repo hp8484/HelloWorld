@@ -2,10 +2,10 @@
   "name": "helloworld",
   "version": "1.0.0",
   "description": "A Simple HelloWorld Nodejs App",
-  "main": "index.js",
+  "main": "HelloWorld.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "HelloWorld.js"
   },
   "repository": {
     "type": "git",
