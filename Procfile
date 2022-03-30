@@ -1,1 +1,1 @@
-web: HelloWorld.js
+web: npm start
